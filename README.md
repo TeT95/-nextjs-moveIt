@@ -1,5 +1,9 @@
-# -nextjs-moveIt
+# NextJs MoveIt
 Hosted in Vercel: https://moveit-nextjs-tet.vercel.app/
+
+**Description**
+
+Using the pomodoro technique, the application will run a timer of 25 minutes, at the end the user will recieve a challenge for exercise his body or eyes, if the user succeeds he will earn experience and may levelup
 
 **Installation**
 
@@ -8,10 +12,6 @@ Hosted in Vercel: https://moveit-nextjs-tet.vercel.app/
 **Running**
 
 - run yarn dev
-
-**Description**
-
-Using the pomodoro technique, the application will run a timer of 25 minutes, at the end the user will recieve a challenge for exercise his body or eyes, if the user succeeds he will earn experience and may levelup
 
 **Screenshots**
 Main page
