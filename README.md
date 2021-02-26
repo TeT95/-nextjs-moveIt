@@ -14,6 +14,7 @@ Using the pomodoro technique, the application will run a timer of 25 minutes, at
 - run yarn dev
 
 **Screenshots**
+
 Main page
 ![Alt text](/main.png?raw=true "main page")
 
